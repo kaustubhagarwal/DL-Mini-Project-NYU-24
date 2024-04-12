@@ -64,6 +64,7 @@ The final model under 5 Million parameters and employing SGD achieved an accurac
 
 ## 👩‍⚖️ Acknowledgement
 
-We would like to thank everyone whose comments and suggestions helped us with the project. We appreciate the constant assistance of Professors Chinmay Hegde, Arsalan Mosenia, and the teaching assistant Teal Witter. Last but not least, we would like to express our sincere gratitude to the teaching staff for providing us with the chance to complete these tasks and projects. They were highly beneficial and relevant to comprehending the ideas.
+We thank professor Chinmay Hegde for his guidance, mentorship, and expertise throughout this project. We would also like to thank the staff and facilities at New York University for providing us with the necessary resources to see this project to completion. We would also like to acknowledge the use of ChatGPT, for providing assistance with generating content for the certain sections of this report.
+
 
 
