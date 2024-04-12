@@ -12,7 +12,7 @@ pip3 install torch torchvision torchaudio torchinfo tensorboard
 ```
 2. Clone the GitHub repository
 ```shell
-git clone (https://github.com/kaustubhagarwal/DL-Mini-Project-NYU-24)
+git clone https://github.com/kaustubhagarwal/DL-Mini-Project-NYU-24
 ```
 3. Change directory into folder
 ```shell
