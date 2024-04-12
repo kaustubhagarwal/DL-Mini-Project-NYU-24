@@ -1,6 +1,6 @@
 # Accuracy Maximization: CIFAR-10 Challenge for ResNet
 
-The ResNet model has led to the establishment for the efficient training of deeper neural networks. This project describes how we achieved higher accuracy while using the same ResNet architecture and the methodology used to optimize the ResNet model with the constrain of 5 million trainable parameters on CIFAR-10 dataset.The CIFAR-10 dataset contains 60,000 32x32 color images in 10 different classes. The hyperparameters that have the greatest influence on the model are also discussed. **Final model's pt file is ResNet.pt**
+The ResNet model has facilitated the effective training of deeper neural networks. This project explains how we improved accuracy using the existing ResNet framework and the techniques employed to fine-tune the ResNet model while limiting it to 5 million trainable parameters on the CIFAR-10 dataset. The CIFAR-10 dataset comprises 60,000 color images, each 32x32 pixels, distributed across 10 distinct classes. Additionally, the hyperparameters that most significantly impact the model's performance are explored. **Final model's pt file is ResNet.pt**
 
 ![Alt text](https://github.com/navoday01/ResNet5M-CIFAR10/blob/main/assets/CIFAR10-2.png)
 
@@ -16,13 +16,8 @@ git clone https://github.com/kaustubhagarwal/DL-Mini-Project-NYU-24
 ```
 3. Change directory into folder
 ```shell
-cd ResNet5M-CIFAR10
+cd models
 ```
-
-
-## 🏁 Quick Start: using Google Colab
-
-To run a demo file go to following google collab link: [test model](https://colab.research.google.com/github/navoday01/ResNet5M-CIFAR10/blob/main/ResnetQuickTest.ipynb)
 
 ## ⏳ Training
 Run train script `ResNetTrain.py` to recreate similar model
@@ -60,7 +55,7 @@ To read a detailed report, click [HERE](assets/Report.pdf)
 
 ## 📦 Conclusion
 
-The final model under 5 Million parameters and employing SGD achieved an accuracy of 95.55% on the CIFAR-10 test data set by systematically adjusting the hyperpameters and optimizers.
+The final model, constrained to under 5 million parameters and utilizing SGD (Stochastic Gradient Descent), reached an accuracy of 95.55% on the CIFAR-10 test dataset. This achievement was accomplished by systematically tuning the hyperparameters and optimizers.
 
 ## 👩‍⚖️ Acknowledgement
 
